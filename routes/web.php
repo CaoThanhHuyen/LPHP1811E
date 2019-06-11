@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
+	//* Đây là home page abbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb */
     return view('welcome');
 });
+
+
